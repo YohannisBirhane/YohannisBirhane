@@ -1,152 +1,112 @@
 <div align="center">
 
-<img src="./assets/yohannis-banner.png" alt="Yohannis Birhane Banner" width="100%">
-
-# 👋 Yohannis Birhane
-
-### Software Engineering Student | Full-Stack Developer
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views" />
-</p>
+<!-- Dynamic header banner using capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Yohannis%20Birhane&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=14&descColor=c4b5fd)
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-- 🎓 Software Engineering Student
-- 💻 Full-Stack Developer
-- 🌱 Learning Software Architecture & Distributed Systems
-- 🔥 Passionate about Backend Development and System Design
+### 👋 Hi, I'm Yohannes (John)
 
----
+> *"Continuous learning and consistent building create exceptional software."*
 
-# 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
+</div>
 
 ---
 
-# ⚙️ Backend
+## 🚀 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,spring,java" />
-</p>
-
----
-
-# 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
+- 🎓 **Software Engineering Student** at Debre Berhan University, Ethiopia
+- 💻 **Full-Stack Developer** — building Web, Desktop & Enterprise Applications
+- 🎯 Interested in **Backend Development, System Design, and Cloud Technologies**
+- 🔨 Passionate about turning ideas into **real-world, scalable solutions**
 
 ---
 
-# 🔧 Version Control
+## 💻 Tech Stack
 
-### Distributed
+### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### Centralized
-
-- SVN (Apache Subversion)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-# 📋 Project Management
+### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jira" />
-</p>
-
-- Agile
-- Scrum
-- Documentation
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-# 💻 Programming Languages
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,cpp" />
-</p>
-
----
-
-# 🏗️ Software Engineering
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- System Design
-- REST API Development
-- Software Testing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# ⭐ Featured Projects
+### 🖥️ Programming Languages
 
-## 🚍 Transportation Schedule & Booking System
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Web platform for transportation scheduling and booking.
-
-### Tech Stack
-
-`Laravel` `MySQL` `Bootstrap`
 
 ---
 
-## 🏋️ Gymnasium Management System
+### 🔧 Version Control & Tools
 
-Desktop application for member registration, payment tracking, and scheduling.
-
-### Tech Stack
-
-`JavaFX` `SQLite`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 🚗 Vehicle Management System
+### 📋 Project Management & Collaboration
 
-Java-based city vehicle management system.
-
-### Tech Stack
-
-`Java` `MySQL`
+![Agile](https://img.shields.io/badge/Agile-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 🏗️ Software Engineering Skills
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
-</p>
+| Skill | Description |
+|---|---|
+| 🏛️ **Software Architecture** | Designing scalable, maintainable system structures |
+| 🔵 **OOP** | Object-Oriented Programming principles & patterns |
+| 🌲 **Data Structures & Algorithms** | Efficient problem solving & optimization |
+| 🗃️ **Database Design** | Relational modeling, normalization & query optimization |
 
 ---
 
-# 📫 Connect With Me
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YohannisBirhane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YohannisBirhane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YohannisBirhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YohannisBirhane)
+[![Email](https://img.shields.io/badge/Email-yohannesb139@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohannesb139@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Code • Design • Build • Deploy
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
 
 </div>
