@@ -21,7 +21,6 @@
 
 - 🎓 **Software Engineering Student** at Debre Berhan University, Ethiopia
 - 💻 **Full-Stack Developer** — building Web, Desktop & Enterprise Applications
-- 🌱 Currently learning **advanced Software Architecture & Distributed Systems**
 - 🎯 Interested in **Backend Development, System Design, and Cloud Technologies**
 - 🔨 Passionate about turning ideas into **real-world, scalable solutions**
 
@@ -62,7 +61,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ---
 
