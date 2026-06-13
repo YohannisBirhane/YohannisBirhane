@@ -88,19 +88,12 @@
 
 
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/YohannisBirhane
+- LinkedIn: @YohannisBirhane
+- Email: yohannesb139@gmail.com
 
 ---
 
